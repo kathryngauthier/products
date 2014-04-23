@@ -101,8 +101,8 @@ p {
     color: #fc9e49;
     text-align: center;
     padding: 0;
-    margin: 0;
-    margin-bottom: 0;
+    margin: 5px;
+    margin-bottom: 2rem;
     line-height: 4rem;
 }
     
@@ -131,4 +131,13 @@ p {
     margin: 6px;
     height: 4rem;
     width: auto;
+}
+
+.nav a, 
+.nav a:link
+.nav a:visited {
+    color: white;
+    text-decoration: none;
+    font-size: .875rem;
+    line-height: 1.5rem
 }
